@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\project phase1\project phase1\bin\Debug\project phase1.exe.config
+C:\Users\Admin\source\repos\project phase1\project phase1\bin\Debug\project phase1.exe
+C:\Users\Admin\source\repos\project phase1\project phase1\bin\Debug\project phase1.pdb
+C:\Users\Admin\source\repos\project phase1\project phase1\obj\Debug\project phase1.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\project phase1\project phase1\obj\Debug\project phase1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\project phase1\project phase1\obj\Debug\project phase1.exe
+C:\Users\Admin\source\repos\project phase1\project phase1\obj\Debug\project phase1.pdb
